@@ -46,7 +46,10 @@
     @media(max-width:576px){
         #applications{
             &__table{
-                overflow-x:  scroll;
+                table{
+                 overflow-x:  scroll;
+                }
+              
             }
         }
     }
