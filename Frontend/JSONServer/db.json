@@ -1,3 +1,12 @@
 {
-    
+  "applicants" :[
+      {
+        "id": "1",
+        "email": "nesto@mail",
+        "firstName": "tijana",
+       " lastName": "Tasevska",
+        "photo": "img1",
+       " phone": "000000"
+      }
+  ]
 }
